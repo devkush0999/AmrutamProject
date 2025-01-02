@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "user": "John Doe",
+      "question": "How to improve mental health?",
+      "likes": 10,
+      "comments": 2,
+      "saved": false
+    }
+  ]
+  
